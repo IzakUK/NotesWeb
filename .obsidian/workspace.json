@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "node_modules/pixi.js/README.md",
+                "file": "content/Books/To Read.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "To Read"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "node_modules/pixi.js/README.md",
+                "file": "content/Books/To Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for To Read"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "node_modules/pixi.js/README.md",
+                "file": "content/Books/To Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from To Read"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "node_modules/pixi.js/README.md"
+                "file": "content/Books/To Read.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of To Read"
             }
           },
           {
@@ -215,13 +215,16 @@
   },
   "active": "498b27aef3ccb039",
   "lastOpenFiles": [
+    "public/static/icon.png",
+    "public/static/og-image.png",
+    "node_modules/pixi.js/README.md",
     "content/index.md",
     "content/Hello World!/Index.md",
     "content/Hello World!",
     "content/Books/To Read.md",
     "content/Books/Thoughts",
-    "content/Books",
     "content/About Me.md",
+    "content/Books",
     "content",
     "node_modules/buffer-builder/ReadMe.md",
     "docs/features/callouts.md",
@@ -249,10 +252,6 @@
     "node_modules/obsidian-calendar-ui/node_modules/tslib/README.md",
     "node_modules/papaparse/README.md",
     "node_modules/luxon/README.md",
-    "node_modules/luxon/LICENSE.md",
-    "node_modules/localforage/README.md",
-    "node_modules/localforage/CONTRIBUTING.md",
-    "public/static/og-image.png",
-    "public/static/icon.png"
+    "node_modules/luxon/LICENSE.md"
   ]
 }
