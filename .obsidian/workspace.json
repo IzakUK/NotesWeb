@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Books/To Read.md",
+                "file": "content/Misc/Books/1984.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "To Read"
+              "title": "1984"
             }
           }
         ]
@@ -79,8 +79,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -161,12 +161,32 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "7f5cc3c2840a2963",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "016e5fd88f79c624",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2ce2014306aa3fbe",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -176,7 +196,7 @@
             }
           },
           {
-            "id": "016e5fd88f79c624",
+            "id": "cb8e72e8af7c11c1",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -186,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -201,11 +221,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-projects:Open projects": false,
       "audio-recorder:Start/stop recording": false,
       "random-note:Open random note": false,
       "publish:Publish changes...": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-projects:Open projects": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
@@ -215,16 +235,22 @@
   },
   "active": "498b27aef3ccb039",
   "lastOpenFiles": [
+    "content/Misc/Books/To Read.md",
+    "content/Misc/Books/1984.md",
+    "content/Notes/Hello World!/Index.md",
+    "content/index.md",
+    "content/Notes/About Me.md",
+    "content/Misc",
+    "content/Notes",
+    "README.md",
+    "architectdiagramplan.drawio.png",
+    "2024-10-27.md",
     "public/static/icon.png",
     "public/static/og-image.png",
     "node_modules/pixi.js/README.md",
-    "content/index.md",
-    "content/Hello World!/Index.md",
-    "content/Hello World!",
-    "content/Books/To Read.md",
+    "content/Notes/Hello World!",
     "content/Books/Thoughts",
-    "content/About Me.md",
-    "content/Books",
+    "content/Misc/Books",
     "content",
     "node_modules/buffer-builder/ReadMe.md",
     "docs/features/callouts.md",
@@ -234,15 +260,11 @@
     "node_modules/data-urls/README.md",
     "node_modules/unist-util-position/readme.md",
     "node_modules/@types/estree-jsx/README.md",
-    "2024-10-27.md",
-    "architectdiagramplan.drawio.png",
     "node_modules/obsidian-dataview/node_modules/emoji-regex/package.json",
     "node_modules/obsidian-dataview/node_modules/emoji-regex/README.md",
     "node_modules/obsidian-dataview/node_modules/emoji-regex/LICENSE-MIT.txt",
     "node_modules/obsidian-dataview/node_modules/emoji-regex/index.js",
     "node_modules/obsidian-dataview/node_modules/emoji-regex/index.d.ts",
-    "node_modules/obsidian-dataview/node_modules/emoji-regex/index.mjs",
-    "node_modules/obsidian-dataview/LICENSE.txt",
     "node_modules/obsidian-dataview/README.md",
     "node_modules/obsidian/README.md",
     "node_modules/obsidian/LICENSE.md",
@@ -251,7 +273,6 @@
     "node_modules/@types/codemirror/README.md",
     "node_modules/obsidian-calendar-ui/node_modules/tslib/README.md",
     "node_modules/papaparse/README.md",
-    "node_modules/luxon/README.md",
-    "node_modules/luxon/LICENSE.md"
+    "node_modules/luxon/README.md"
   ]
 }

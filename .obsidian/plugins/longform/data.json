@@ -1,7 +1,7 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "content/Hello World!/Index.md",
+  "selectedDraftVaultPath": "content/Notes/Hello World!/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
@@ -10,6 +10,10 @@
       "total": 0,
       "drafts": {
         "content/Hello World!/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "content/Notes/Hello World!/Index.md": {
           "total": 0,
           "scenes": {}
         }
