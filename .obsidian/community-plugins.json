@@ -20,5 +20,9 @@
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-theme-design-utilities",
-  "various-complements"
+  "various-complements",
+  "url-into-selection",
+  "obsidian-book-search-plugin",
+  "dataview",
+  "cmdr"
 ]

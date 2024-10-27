@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "node_modules/pixi.js/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "node_modules/pixi.js/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "node_modules/pixi.js/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "node_modules/pixi.js/README.md"
               },
               "icon": "lucide-list",
               "title": "Outline of README"
@@ -209,28 +209,50 @@
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "514e2395d2e2c7af",
+  "active": "498b27aef3ccb039",
   "lastOpenFiles": [
     "content/Hello World!/Index.md",
-    "content/About Me.md",
-    "content/index.md",
-    "templates/Testing.md",
-    "CODE_OF_CONDUCT.md",
-    "README.md",
-    "content/Hello World!",
-    "content",
-    "public/404.html",
-    "public/static/giscus/dark.css",
-    "public/static/giscus/light.css",
+    "node_modules/buffer-builder/ReadMe.md",
+    "docs/features/callouts.md",
+    "node_modules/typescript/SECURITY.md",
+    "node_modules/mdast-util-from-markdown/readme.md",
+    "node_modules/fetch-ponyfill/node_modules/node-fetch/LICENSE.md",
+    "node_modules/data-urls/README.md",
+    "node_modules/unist-util-position/readme.md",
+    "node_modules/@types/estree-jsx/README.md",
+    "2024-10-27.md",
+    "content/Books/To Read.md",
+    "architectdiagramplan.drawio.png",
+    "node_modules/obsidian-dataview/node_modules/emoji-regex/package.json",
+    "node_modules/obsidian-dataview/node_modules/emoji-regex/README.md",
+    "node_modules/obsidian-dataview/node_modules/emoji-regex/LICENSE-MIT.txt",
+    "node_modules/obsidian-dataview/node_modules/emoji-regex/index.js",
+    "node_modules/obsidian-dataview/node_modules/emoji-regex/index.d.ts",
+    "node_modules/obsidian-dataview/node_modules/emoji-regex/index.mjs",
+    "node_modules/obsidian-dataview/LICENSE.txt",
+    "node_modules/obsidian-dataview/lib/data/parse/markdown.d.ts",
+    "node_modules/obsidian-dataview/lib/data/parse/inline-field.d.ts",
+    "node_modules/obsidian-dataview/lib/data/parse/csv.d.ts",
+    "node_modules/obsidian-dataview/lib/data/import/markdown.d.ts",
+    "node_modules/obsidian-dataview/README.md",
+    "node_modules/obsidian/README.md",
+    "node_modules/obsidian/LICENSE.md",
+    "node_modules/obsidian/CHANGELOG.md",
+    "node_modules/@codemirror/language/README.md",
+    "node_modules/@types/codemirror/README.md",
+    "node_modules/obsidian-calendar-ui/node_modules/tslib/README.md",
+    "node_modules/papaparse/README.md",
+    "node_modules/luxon/README.md",
+    "node_modules/luxon/LICENSE.md",
+    "node_modules/localforage/README.md",
+    "node_modules/localforage/CONTRIBUTING.md",
+    "node_modules/localforage/CHANGELOG.md",
+    "node_modules/w3c-keyname/README.md",
     "public/static/og-image.png",
-    "public/static/icon.png",
-    "public/static/giscus",
-    "public/static/contentIndex.json",
-    "public/static",
-    "public/index.xml",
-    "public/sitemap.xml"
+    "public/static/icon.png"
   ]
 }
