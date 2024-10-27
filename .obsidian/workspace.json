@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/About Me.md",
+                "file": "templates/Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About Me"
+              "title": "Testing"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/About Me.md",
+                "file": "templates/Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for About Me"
+              "title": "Backlinks for Testing"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/About Me.md",
+                "file": "templates/Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from About Me"
+              "title": "Outgoing links from Testing"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/About Me.md"
+                "file": "templates/Testing.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of About Me"
+              "title": "Outline of Testing"
             }
           },
           {
@@ -213,6 +213,11 @@
   },
   "active": "498b27aef3ccb039",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/Hello World!/Index.md",
+    "content/Hello World!",
+    "content/About Me.md",
+    "content",
     "public/404.html",
     "public/static/giscus/dark.css",
     "public/static/giscus/light.css",
@@ -223,12 +228,6 @@
     "public/static",
     "public/index.xml",
     "public/sitemap.xml",
-    "public/tags/index.html",
-    "public/tags",
-    "public/index.html",
-    "templates/Testing.md",
-    "content/Hello World!/Index.md",
-    "content/index.md",
-    "content/About Me.md"
+    "templates/Testing.md"
   ]
 }
