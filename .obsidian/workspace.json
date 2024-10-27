@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Hello World!/Index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "README"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Hello World!/Index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Hello World!/Index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Index"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Hello World!/Index.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Index"
+              "title": "Outline of README"
             }
           },
           {
@@ -212,14 +212,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "498b27aef3ccb039",
+  "active": "514e2395d2e2c7af",
   "lastOpenFiles": [
+    "content/Hello World!/Index.md",
     "content/About Me.md",
     "content/index.md",
     "templates/Testing.md",
     "CODE_OF_CONDUCT.md",
-    "Hi Everyone!.md",
-    "content/Hello World!/Index.md",
+    "README.md",
     "content/Hello World!",
     "content",
     "public/404.html",
