@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Books/To Read.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "To Read"
+              "title": "index"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Books/To Read.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To Read"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Books/To Read.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To Read"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Books/To Read.md"
+                "file": "content/index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of To Read"
+              "title": "Outline of index"
             }
           },
           {
@@ -215,17 +215,17 @@
   },
   "active": "498b27aef3ccb039",
   "lastOpenFiles": [
+    "content/About Me.md",
+    "content/Books/To Read.md",
     "public/static/icon.png",
-    "public/static/og-image.png",
-    "node_modules/pixi.js/README.md",
     "content/index.md",
     "content/Hello World!/Index.md",
     "content/Hello World!",
-    "content/Books/To Read.md",
     "content/Books/Thoughts",
-    "content/About Me.md",
     "content/Books",
     "content",
+    "public/static/og-image.png",
+    "node_modules/pixi.js/README.md",
     "node_modules/buffer-builder/ReadMe.md",
     "docs/features/callouts.md",
     "node_modules/typescript/SECURITY.md",
