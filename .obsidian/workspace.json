@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/Misc/Books/1984.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "1984"
@@ -79,8 +79,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -233,9 +233,25 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "514e2395d2e2c7af",
   "lastOpenFiles": [
+    "content/Notes/Cryptography/Blockchains/Nodes/Light Node.md",
+    "content/Notes/Cryptography/Blockchains/Nodes/Full Node.md",
     "content/Misc/Books/To Read.md",
+    "docs/advanced/index.md",
+    "docs/features/comments.md",
+    "docs/features/callouts.md",
+    "docs/features/breadcrumbs.md",
+    "docs/images/giscus-discussion.png",
+    "docs/images/giscus-example.png",
+    "docs/images/giscus-repo.png",
+    "docs/images/giscus-results.png",
+    "docs/images/github-quick-setup.png",
+    "content/index.md",
+    "content/Misc/Books/1984.md",
+    "2024-10-30.md",
+    "content/Misc/Fitness/Gym",
+    "content/Misc/Fitness",
     "content/Notes/Distributed Ledger vs Blockchain.md",
     "content/Notes/Networking/Subnetting/Subnet Mask.md",
     "content/Notes/Encryption/Structure of the blockchain.md",
@@ -247,22 +263,13 @@
     "content/Notes/Cryptography/Blockchains/Block Reward.md",
     "content/Notes/Cryptography/Blockchains/Consensus Algorithm.md",
     "content/Notes/Cryptography/Blockchains/3 B stolen story.md",
-    "content/Notes/Cryptography/Blockchains/Nodes/Light Node.md",
     "content/Notes/Cryptography/Blockchains/Nodes/Mining Node.md",
     "content/Notes/Consensus.md",
     "Pasted image 20241028143705.png",
     "architectdiagramplan.drawio.png",
-    "content/index.md",
     "content/Notes/Trustless Manner.md",
     "content/Notes/Anonymous.md",
     "content/Notes/Networking/IP Addresses.md",
-    "content/Notes/Networking/Broadcast Address.md",
-    "content/Notes/Encryption/Block in blockchains.md",
-    "content/Notes/Cryptography/Distributed Ledger.md",
-    "content/Notes/Cryptography/Chain.md",
-    "content/Misc/Books/1984.md",
-    "content/Notes/Secure.md",
-    "content/Notes/Encryption/Decentralise.md",
     "content/Notes/Cryptography/Blockchains/Nodes",
     "content/Notes/Cryptography/Blockchains",
     "public/Trustless-Manner.html",
@@ -271,15 +278,8 @@
     "public/Notes/Networking/Subnetting/Subnet-Mask.html",
     "public/Notes/Networking/index.html",
     "public/Notes/Networking/Subnetting",
-    "public/Notes/Networking/IP-Addresses.html",
-    "public/Notes/Networking/Broadcast-Address.html",
     "Pasted image 20241028162531.png",
     "Pasted image 20241028162446.png",
-    "Pasted image 20241028162420.png",
-    "Pasted image 20241028162415.png",
-    "Pasted image 20241028162301.png",
-    "Pasted image 20241028162032.png",
-    "Pasted image 20241028161939.png",
-    "Pasted image 20241028155312.png"
+    "Pasted image 20241028162420.png"
   ]
 }
