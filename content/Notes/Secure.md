@@ -1,0 +1,1 @@
+Means a file or thing is encrypted and difficult to change, edit or attack, whatever it is that is malicious.

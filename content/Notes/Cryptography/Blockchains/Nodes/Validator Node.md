@@ -1,0 +1,1 @@
+Receive, initiate, and validate transactions added to the block chain and ensures they follow the rules and are accurate. They're a little better than [[Member Node|a member node]] since they have more permissions.

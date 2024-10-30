@@ -1,0 +1,1 @@
+<p style="text-align:center">If you want to use a specific blockchain, they will have an app with it's own ecosystem, you must install it if you wish to participate. Then you can connect your computer as a node for their blockchain.</p>

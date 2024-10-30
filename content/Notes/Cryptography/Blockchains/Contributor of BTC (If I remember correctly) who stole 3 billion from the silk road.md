@@ -1,0 +1,1 @@
+There was some story about a hacker who funnelled BTC through the silk road between 2012 and 2014 due to a withdrawal exploit, this hacker stole more than 51,000 bitcoin from other users, 3 billion dollars worth, but 7 years later, he was caught: [https://youtu.be/1hu1np_BI2M?si=kAuRfNAO_DpEyX4R]

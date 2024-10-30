@@ -1,28 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪴 Quartz 4.0</title>
+      <title>Go Back To Home</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <description>Last 10 notes on Go Back To Home</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome to Quartz</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Sun, 27 Oct 2024 12:42:47 GMT</pubDate>
+    <title>Broadcast Address</title>
+    <link>https://quartz.jzhao.xyz/Notes/Networking/Broadcast-Address</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Networking/Broadcast-Address</guid>
+    <description>Broadcast address, which is at the end of the Subnet Mask at 255, essentially is used to communicate between all devices on a network Fun example: Device: “Hey, CAN SOMEONE SAY SOMETHING???” ...</description>
+    <pubDate>Mon, 28 Oct 2024 16:18:22 GMT</pubDate>
   </item><item>
-    <title>Index</title>
-    <link>https://quartz.jzhao.xyz/Hello-World!/Index</link>
-    <guid>https://quartz.jzhao.xyz/Hello-World!/Index</guid>
-    <description></description>
-    <pubDate>Sun, 27 Oct 2024 12:42:47 GMT</pubDate>
+    <title>Subnet Mask</title>
+    <link>https://quartz.jzhao.xyz/Notes/Networking/Subnetting/Subnet-Mask</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Networking/Subnetting/Subnet-Mask</guid>
+    <description>Subnet masking is where you divide the IP into two parts, one for the host, other for the network 10.0.0.0 255.0.0.0 means that 10 cannot be modified, but the rest can ...</description>
+    <pubDate>Mon, 28 Oct 2024 16:09:31 GMT</pubDate>
   </item><item>
-    <title>About Me</title>
-    <link>https://quartz.jzhao.xyz/About-Me</link>
-    <guid>https://quartz.jzhao.xyz/About-Me</guid>
-    <description> Who Am I? I’m Izak, a second year student studying at Aston University. I decided to make this page to help with how I study, proof of work and also help you, the viewer, with Cyber Security and other related work.</description>
-    <pubDate>Sun, 27 Oct 2024 12:42:47 GMT</pubDate>
+    <title>IP Addresses</title>
+    <link>https://quartz.jzhao.xyz/Notes/Networking/IP-Addresses</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Networking/IP-Addresses</guid>
+    <description>Subnet Mask.</description>
+    <pubDate>Mon, 28 Oct 2024 16:09:02 GMT</pubDate>
+  </item><item>
+    <title>Untitled</title>
+    <link>https://quartz.jzhao.xyz/Notes/Untitled</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Untitled</guid>
+    <description>Pick one consensus algorithm.</description>
+    <pubDate>Mon, 28 Oct 2024 15:52:59 GMT</pubDate>
+  </item><item>
+    <title>Trustless Manner</title>
+    <link>https://quartz.jzhao.xyz/Trustless-Manner</link>
+    <guid>https://quartz.jzhao.xyz/Trustless-Manner</guid>
+    <description>You don’t need to know any individual person to agree on an issue, it’s okay since the majority agrees on something. A democratic vote.</description>
+    <pubDate>Mon, 28 Oct 2024 15:52:21 GMT</pubDate>
+  </item><item>
+    <title>DApp</title>
+    <link>https://quartz.jzhao.xyz/DApp</link>
+    <guid>https://quartz.jzhao.xyz/DApp</guid>
+    <description>When you use the blockchain, you need a decentralised app, all of these have Smart Contracts and are the building blocks for DApps.</description>
+    <pubDate>Mon, 28 Oct 2024 15:47:52 GMT</pubDate>
+  </item><item>
+    <title>Smart Contracts</title>
+    <link>https://quartz.jzhao.xyz/Notes/Smart-Contracts</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Smart-Contracts</guid>
+    <description>Smart contracts are small programs made to observe, accomplish and implement agreements automatically It’s an agreement that ensures the conditions are followed and respected ...</description>
+    <pubDate>Mon, 28 Oct 2024 15:42:24 GMT</pubDate>
+  </item><item>
+    <title>Block Reward</title>
+    <link>https://quartz.jzhao.xyz/Notes/Block-Reward</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Block-Reward</guid>
+    <description>If a miner is successful, they can receive the currency, but it is only for one node/person and is extremely power hungry.</description>
+    <pubDate>Mon, 28 Oct 2024 15:41:33 GMT</pubDate>
+  </item><item>
+    <title>Mining in crypto</title>
+    <link>https://quartz.jzhao.xyz/Notes/Mining-in-crypto</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Mining-in-crypto</guid>
+    <description>Mining is the process to determin the validatiy of the block, while creating new blocks, transactions are verified then added to the blockchain and to the Full Node and Super Node It ...</description>
+    <pubDate>Mon, 28 Oct 2024 15:23:28 GMT</pubDate>
+  </item><item>
+    <title>Consensus Algorithm</title>
+    <link>https://quartz.jzhao.xyz/Notes/Consensus-Algorithm</link>
+    <guid>https://quartz.jzhao.xyz/Notes/Consensus-Algorithm</guid>
+    <description>A set of rules and arrangements that are carried out in blockchains with Consensus, tends to be part of the Node Application Blockchain changes its state from one to another due to evolving ...</description>
+    <pubDate>Mon, 28 Oct 2024 15:20:25 GMT</pubDate>
   </item>
     </channel>
   </rss>

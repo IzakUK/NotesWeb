@@ -1,0 +1,1 @@
+Essentially a Database. A shared copy of this is provided to each [[Node|node]], nobody can edit it, unless consent is given by everyone or majority due to the [[Consensus|consensus]].
