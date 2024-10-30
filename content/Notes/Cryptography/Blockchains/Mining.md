@@ -1,7 +1,9 @@
-Mining is the process to determine the validity of the block, while creating new blocks, [[Transaction in blockchains|transactions]] are verified, then added to the blockchain and to the [[Full Node]] and [[Super Node]] (Same thing basically)
+<p style="text-align: center">In Crypto</p>
+
+Mining is the process to determine the validity of the block, while creating new blocks, [[Transaction|transactions]] are verified, then added to the blockchain and to the [[Full Node]] and [[Super Node]] (Same thing basically)
 
 
-It is done by [[Mining Node|miners]], they get incentives such as a portion like [[Block Reward in Blockchains|e.g. 100 Tesco coins]]. Problem is, many miners compete for the same reward, it creates a race to solve complex problems.
+It is done by [[Mining Node|miners]], they get incentives such as a portion like [[Block Reward|e.g. 100 Tesco coins]]. Problem is, many miners compete for the same reward, it creates a race to solve complex problems.
 
 To prevent inflation and maintain value, crypto like BTC have built-in difficulty adjustment. BTC are mined every 10 minutes or so, if blocks were added too quickly, the supply would flood the market and the demand would be lowered, reducing the value.
 

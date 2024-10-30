@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Notes/Secure.md",
+                "file": "content/Misc/Books/1984.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secure"
+              "title": "1984"
             }
           }
         ]
@@ -235,32 +235,34 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "content/Notes/Distributed Ledger vs Blockchain.md",
-    "content/Notes/Encryption/Structure of the blockchain.md",
-    "content/Notes/Encryption/Decentralise.md",
-    "content/Notes/Encryption/Distributed Ledger Technology (DLT).md",
-    "content/Notes/Cryptography/Distributed Ledger.md",
-    "content/Notes/Cryptography/Chain.md",
-    "content/Notes/Cryptography/Blockchains/Transaction in blockchains.md",
-    "content/Notes/Cryptography/Blockchains/Consensus Algorithm.md",
     "content/Misc/Books/To Read.md",
-    "content/Misc/Books/1984.md",
-    "content/Notes/Cryptography/Blockchains/Nodes/Full Node.md",
-    "content/Notes/Cryptography/Blockchains/Nodes/Validator Node.md",
-    "content/Notes/Cryptography/Blockchains/Nodes/Member Node.md",
-    "content/Notes/Cryptography/Blockchains/Nodes/Super Node.md",
-    "content/Notes/Cryptography/Blockchains/Block Reward in Blockchains.md",
+    "content/Notes/Distributed Ledger vs Blockchain.md",
+    "content/Notes/Networking/Subnetting/Subnet Mask.md",
+    "content/Notes/Encryption/Structure of the blockchain.md",
+    "content/Notes/Encryption/Distributed Ledger Technology (DLT).md",
+    "content/Notes/Cryptography/Blockchains/Transaction.md",
     "content/Notes/Cryptography/Blockchains/Smart Contracts.md",
     "content/Notes/Cryptography/Blockchains/Node Application.md",
-    "content/Notes/Cryptography/Blockchains/Contributor of BTC (If I remember correctly) who stole 3 billion from the silk road.md",
-    "content/Notes/Consensus.md",
-    "content/Notes/Encryption/Block in blockchains.md",
-    "content/Notes/Cryptography/Blockchains/Nodes/Mining Node.md",
-    "content/Notes/Cryptography/Blockchains/Nodes/Node.md",
+    "content/Notes/Cryptography/Blockchains/Mining.md",
+    "content/Notes/Cryptography/Blockchains/Block Reward.md",
+    "content/Notes/Cryptography/Blockchains/Consensus Algorithm.md",
+    "content/Notes/Cryptography/Blockchains/3 B stolen story.md",
     "content/Notes/Cryptography/Blockchains/Nodes/Light Node.md",
-    "content/Notes/Cryptography/Blockchains/Mining in crypto.md",
-    "content/Notes/testt.md",
-    "content/Notes/Timestamp.md",
+    "content/Notes/Cryptography/Blockchains/Nodes/Mining Node.md",
+    "content/Notes/Consensus.md",
+    "Pasted image 20241028143705.png",
+    "architectdiagramplan.drawio.png",
+    "content/index.md",
+    "content/Notes/Trustless Manner.md",
+    "content/Notes/Anonymous.md",
+    "content/Notes/Networking/IP Addresses.md",
+    "content/Notes/Networking/Broadcast Address.md",
+    "content/Notes/Encryption/Block in blockchains.md",
+    "content/Notes/Cryptography/Distributed Ledger.md",
+    "content/Notes/Cryptography/Chain.md",
+    "content/Misc/Books/1984.md",
+    "content/Notes/Secure.md",
+    "content/Notes/Encryption/Decentralise.md",
     "content/Notes/Cryptography/Blockchains/Nodes",
     "content/Notes/Cryptography/Blockchains",
     "public/Trustless-Manner.html",
@@ -278,8 +280,6 @@
     "Pasted image 20241028162301.png",
     "Pasted image 20241028162032.png",
     "Pasted image 20241028161939.png",
-    "Pasted image 20241028155312.png",
-    "Pasted image 20241028154846.png",
-    "Pasted image 20241028154357.png"
+    "Pasted image 20241028155312.png"
   ]
 }

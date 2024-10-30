@@ -1,6 +1,6 @@
 A node is a computer, in this case, like a cog in a larger network. **It's a connection along many network devices and can be any type of internet device (like a switch, laptop or phone)**
 
-In blockchain (Nodes will host [[Distributed Ledger|ledgers]] and [[Smart Contracts]] where [[Transaction in blockchains]] are executed and validated in distributed)
+In blockchain (Nodes will host [[Distributed Ledger|ledgers]] and [[Smart Contracts]] where [[Transaction]] are executed and validated in distributed)
 
 The device can receive and send data from one device to another.
 
