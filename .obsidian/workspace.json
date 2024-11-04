@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Notes/Human Factors in Security/Maintenance.md",
+                "file": "management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maintenance"
+              "title": "management"
             }
           }
         ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Notes/Human Factors in Security/Maintenance.md",
+                "file": "management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Maintenance"
+              "title": "Backlinks for management"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Notes/Human Factors in Security/Maintenance.md",
+                "file": "management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Maintenance"
+              "title": "Outgoing links from management"
             }
           },
           {
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Notes/Human Factors in Security/Maintenance.md"
+                "file": "management.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Maintenance"
+              "title": "Outline of management"
             }
           },
           {
@@ -231,6 +231,27 @@
   "active": "e43c1e188ceefe2b",
   "lastOpenFiles": [
     "Development.md",
+    "planning.md",
+    "README.md",
+    "content/Notes/Human Factors in Security/Maintenance.md",
+    "NotesWeb/node_modules/mathjax-full/ts/input/asciimath/mathjax2/legacy/jax/element/mml/optable/SuppMathOperators.js",
+    "NotesWeb/node_modules/mathjax-full/ts/input/asciimath/mathjax2/legacy/jax/element/mml/optable/SpacingModLetters.js",
+    "NotesWeb/node_modules/mathjax-full/ts/input/asciimath/mathjax2/legacy/jax/element/mml/optable/SupplementalArrowsB.js",
+    "NotesWeb/node_modules/mathjax-full/ts/input/asciimath/mathjax2/legacy/jax/element/mml/optable/MiscSymbolsAndArrows.js",
+    "NotesWeb/node_modules/mathjax-full/ts/input/asciimath/mathjax2/legacy/jax/element/mml/optable/MiscTechnical.js",
+    "NotesWeb/node_modules/mathjax-full/ts/input/asciimath/mathjax2/legacy/jax/element/mml/optable/SupplementalArrowsA.js",
+    "NotesWeb/node_modules/mathjax-full/ts/input/asciimath/mathjax2/legacy/jax/element/mml/optable/MathOperators.js",
+    "NotesWeb/node_modules/mathjax-full/ts/input/asciimath/mathjax2/legacy/jax/element/mml/optable/Latin1Supplement.js",
+    "NotesWeb/node_modules/mathjax-full/ts/input/asciimath/mathjax2/legacy/jax/element/mml/optable/MiscMathSymbolsB.js",
+    "NotesWeb/node_modules/mathjax-full/ts/input/asciimath/mathjax2/legacy/jax/element/mml/optable/MiscMathSymbolsA.js",
+    "NotesWeb/node_modules/vfile/node_modules/@types/unist/README.md",
+    "NotesWeb/node_modules/vfile/node_modules/vfile-message/readme.md",
+    "NotesWeb/node_modules/vfile/node_modules/unist-util-stringify-position/readme.md",
+    "NotesWeb/node_modules/vfile/readme.md",
+    "NotesWeb/node_modules/micromatch/README.md",
+    "NotesWeb/node_modules/toml/README.md",
+    "NotesWeb/node_modules/toml/CHANGELOG.md",
+    "NotesWeb/node_modules/preact-render-to-string/README.md",
     "content/Notes/Human Factors in Security/Phishing.md",
     "content/Notes/Human Factors in Security/Awareness.md",
     "content/Notes/Cryptography/Chain.md",
@@ -238,16 +259,6 @@
     "content/Notes/Cryptography/Distributed Ledger.md",
     "content/Notes/Human Factors in Security/Legal responsibilities.md",
     "content/Notes/Human Factors in Security/Proactive.md",
-    "public/Trustless-Manner.html",
-    "public/Notes/Networking/Subnetting/Subnet-Mask.html",
-    "public/Notes/Networking/Subnetting/index.html",
-    "public/Notes/Networking/Subnetting",
-    "public/Notes/Networking/IP-Addresses.html",
-    "public/Notes/Networking/Broadcast-Address.html",
-    "public/Notes/Networking/index.html",
-    "public/Notes/Hello-World!/Index.html",
-    "public/Notes/Encryption/Structure-of-the-blockchain.html",
-    "public/Notes/Encryption/index.html",
     "NotesWeb/public/static/og-image.png",
     "NotesWeb/public/static/icon.png",
     "NotesWeb/quartz/static/og-image.png",
@@ -259,22 +270,11 @@
     "Pasted image 20241028162531.png",
     "Pasted image 20241028162415.png",
     "Pasted image 20241028162420.png",
-    "content/Notes/Human Factors in Security/Maintenance.md",
     "content/Notes/Human Factors in Security/Reactive.md",
-    "README.md",
     "NotesWeb/node_modules/retext-latin/readme.md",
     "management.md",
     "NotesWeb/node_modules/pixi.js/README.md",
     "NotesWeb/node_modules/resolve/SECURITY.md",
-    "NotesWeb/node_modules/hast-util-to-text/node_modules/@types/unist/README.md",
-    "NotesWeb/node_modules/hast-util-to-html/node_modules/@types/unist/README.md",
-    "NotesWeb/node_modules/hast-util-to-jsx-runtime/node_modules/@types/unist/README.md",
-    "NotesWeb/node_modules/hast-util-raw/node_modules/@types/unist/README.md",
-    "NotesWeb/node_modules/hast-util-from-parse5/node_modules/@types/unist/README.md",
-    "NotesWeb/node_modules/hast-util-from-html/node_modules/@types/unist/README.md",
-    "NotesWeb/node_modules/@clack/prompts/node_modules/is-unicode-supported/readme.md",
-    "NotesWeb/node_modules/katex/src/metrics/README.md",
-    "NotesWeb/node_modules/katex/node_modules/commander/Readme.md",
-    "NotesWeb/node_modules/katex/contrib/mathtex-script-type/README.md"
+    "NotesWeb/node_modules/hast-util-to-text/node_modules/@types/unist/README.md"
   ]
 }
