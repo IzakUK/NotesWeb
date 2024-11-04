@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "2a3805d3e227027e",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "1263572083bfe534",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "498b27aef3ccb039",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,12 +161,32 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "7f5cc3c2840a2963",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "016e5fd88f79c624",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2ce2014306aa3fbe",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -176,7 +196,7 @@
             }
           },
           {
-            "id": "016e5fd88f79c624",
+            "id": "cb8e72e8af7c11c1",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -186,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -201,11 +221,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-projects:Open projects": false,
       "audio-recorder:Start/stop recording": false,
       "random-note:Open random note": false,
       "publish:Publish changes...": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-projects:Open projects": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
@@ -213,7 +233,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "498b27aef3ccb039",
+  "active": "514e2395d2e2c7af",
   "lastOpenFiles": [
     "NotesWeb",
     "content/Notes/Human Factors in Security/Social Engineering Awareness & Training.md",
