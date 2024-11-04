@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Notes/Human Factors in Security/Proactive.md",
+                "file": "content/Notes/Human Factors in Security/Maintenance.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Proactive"
+              "title": "Maintenance"
             }
           }
         ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Notes/Human Factors in Security/Proactive.md",
+                "file": "content/Notes/Human Factors in Security/Maintenance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Proactive"
+              "title": "Backlinks for Maintenance"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Notes/Human Factors in Security/Proactive.md",
+                "file": "content/Notes/Human Factors in Security/Maintenance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Proactive"
+              "title": "Outgoing links from Maintenance"
             }
           },
           {
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Notes/Human Factors in Security/Proactive.md"
+                "file": "content/Notes/Human Factors in Security/Maintenance.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Proactive"
+              "title": "Outline of Maintenance"
             }
           },
           {
@@ -228,24 +228,41 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "514e2395d2e2c7af",
+  "active": "e43c1e188ceefe2b",
   "lastOpenFiles": [
-    "content/Notes/Human Factors in Security/Maintenance.md",
-    "Legal responsibilities.md",
+    "Development.md",
+    "content/Notes/Human Factors in Security/Phishing.md",
+    "content/Notes/Human Factors in Security/Awareness.md",
+    "content/Notes/Cryptography/Chain.md",
+    "content/Notes/Encryption/Distributed Ledger Technology (DLT).md",
+    "content/Notes/Cryptography/Distributed Ledger.md",
+    "content/Notes/Human Factors in Security/Legal responsibilities.md",
     "content/Notes/Human Factors in Security/Proactive.md",
+    "public/Trustless-Manner.html",
+    "public/Notes/Networking/Subnetting/Subnet-Mask.html",
+    "public/Notes/Networking/Subnetting/index.html",
+    "public/Notes/Networking/Subnetting",
+    "public/Notes/Networking/IP-Addresses.html",
+    "public/Notes/Networking/Broadcast-Address.html",
+    "public/Notes/Networking/index.html",
+    "public/Notes/Hello-World!/Index.html",
+    "public/Notes/Encryption/Structure-of-the-blockchain.html",
+    "public/Notes/Encryption/index.html",
+    "NotesWeb/public/static/og-image.png",
+    "NotesWeb/public/static/icon.png",
+    "NotesWeb/quartz/static/og-image.png",
+    "NotesWeb/quartz/static/icon.png",
+    "NotesWeb/templates/Testing.md",
+    "Pasted image 20241028161939.png",
+    "Pasted image 20241028162032.png",
+    "Pasted image 20241028162301.png",
+    "Pasted image 20241028162531.png",
+    "Pasted image 20241028162415.png",
+    "Pasted image 20241028162420.png",
+    "content/Notes/Human Factors in Security/Maintenance.md",
     "content/Notes/Human Factors in Security/Reactive.md",
     "README.md",
-    "NotesWeb/node_modules/retext-latin/lib/index.js",
-    "NotesWeb/node_modules/retext-latin/lib/index.d.ts",
     "NotesWeb/node_modules/retext-latin/readme.md",
-    "NotesWeb/node_modules/retext-latin/package.json",
-    "NotesWeb/node_modules/retext-latin/lib",
-    "NotesWeb/node_modules/retext-latin/index.js",
-    "NotesWeb/node_modules/retext-latin/index.d.ts",
-    "NotesWeb/node_modules/retext-latin",
-    "NotesWeb/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/preprocessors/stripVersion.mjs.map",
-    "NotesWeb/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/preprocessors/stripVersion.mjs",
-    "NotesWeb/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/preprocessors/stripVersion.js.map",
     "management.md",
     "NotesWeb/node_modules/pixi.js/README.md",
     "NotesWeb/node_modules/resolve/SECURITY.md",
@@ -258,23 +275,6 @@
     "NotesWeb/node_modules/@clack/prompts/node_modules/is-unicode-supported/readme.md",
     "NotesWeb/node_modules/katex/src/metrics/README.md",
     "NotesWeb/node_modules/katex/node_modules/commander/Readme.md",
-    "NotesWeb/node_modules/katex/contrib/mathtex-script-type/README.md",
-    "NotesWeb/node_modules/katex/contrib/copy-tex/README.md",
-    "NotesWeb/node_modules/katex/contrib/mhchem/README.md",
-    "NotesWeb/node_modules/katex/contrib/auto-render/README.md",
-    "NotesWeb/node_modules/hast-util-to-jsx-runtime/node_modules/vfile-message/readme.md",
-    "NotesWeb/node_modules/hast-util-to-jsx-runtime/node_modules/unist-util-stringify-position/readme.md",
-    "NotesWeb/node_modules/hast-util-from-html/node_modules/vfile-message/readme.md",
-    "NotesWeb/node_modules/hast-util-from-html/node_modules/unist-util-stringify-position/readme.md",
-    "NotesWeb/node_modules/cli-spinner/img/spinner.gif",
-    "NotesWeb/docs/images/quartz-layout-tablet.png",
-    "NotesWeb/docs/images/quartz-layout-mobile.png",
-    "NotesWeb/docs/images/quartz-layout-desktop.png",
-    "NotesWeb/docs/images/quartz transform pipeline.png",
-    "NotesWeb/docs/images/github-init-repo-options.png",
-    "NotesWeb/docs/images/github-quick-setup.png",
-    "NotesWeb/docs/images/giscus-example.png",
-    "NotesWeb/docs/images/giscus-results.png",
-    "NotesWeb/docs/images/giscus-repo.png"
+    "NotesWeb/node_modules/katex/contrib/mathtex-script-type/README.md"
   ]
 }

@@ -1,1 +1,0 @@
-Awareness is presenting to make people remember things, no real interaction, but
