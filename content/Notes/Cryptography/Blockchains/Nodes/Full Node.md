@@ -1,0 +1,1 @@
+The system that maintains the entire copy of the blockchain, it's extremely important. This has heavy responsibility as it has the complete blockchain on it which allows it to distribute copies of the entire blockchain to other nodes as well. It additionally ensures validating the history of the blockchain.

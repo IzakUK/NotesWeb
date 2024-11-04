@@ -1,0 +1,1 @@
+It can only initiate and receive transactions in a blockchain. similar to a [[Light Node|light node]]

@@ -1,0 +1,1 @@
+When you use the blockchain, you need a decentralised app, all of these have [[Smart Contracts|smart contracts]] and are the building blocks for it

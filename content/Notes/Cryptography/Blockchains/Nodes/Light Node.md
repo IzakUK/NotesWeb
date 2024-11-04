@@ -1,0 +1,1 @@
+They connect to the blockchain to the [[Full Node|full node]] but do not keep a copy of the entire blockchain as their processing power is far more limited and cannot do everything since they don't have the entire copy. It needs to connect to that before it can interact with the blockchain like sending or receiving a transaction.
