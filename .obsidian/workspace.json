@@ -230,6 +230,7 @@
   },
   "active": "e43c1e188ceefe2b",
   "lastOpenFiles": [
+    "2024-10-30.md",
     "Development.md",
     "planning.md",
     "README.md",
@@ -274,7 +275,6 @@
     "NotesWeb/node_modules/retext-latin/readme.md",
     "management.md",
     "NotesWeb/node_modules/pixi.js/README.md",
-    "NotesWeb/node_modules/resolve/SECURITY.md",
-    "NotesWeb/node_modules/hast-util-to-text/node_modules/@types/unist/README.md"
+    "NotesWeb/node_modules/resolve/SECURITY.md"
   ]
 }
