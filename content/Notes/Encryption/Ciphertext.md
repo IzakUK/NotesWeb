@@ -1,0 +1,1 @@
+Cipher Text is [[Plaintext|plaintext]] encrypted by an algorithm
