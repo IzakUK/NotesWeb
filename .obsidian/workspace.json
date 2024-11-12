@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Notes/Human Factors in Security/OSINT.md",
+                "file": "Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSINT"
+              "title": "Development"
             }
           }
         ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Notes/Human Factors in Security/OSINT.md",
+                "file": "Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for OSINT"
+              "title": "Backlinks for Development"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Notes/Human Factors in Security/OSINT.md",
+                "file": "Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from OSINT"
+              "title": "Outgoing links from Development"
             }
           },
           {
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Notes/Human Factors in Security/OSINT.md"
+                "file": "Development.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of OSINT"
+              "title": "Outline of Development"
             }
           },
           {
@@ -231,11 +231,25 @@
   "active": "e43c1e188ceefe2b",
   "lastOpenFiles": [
     "content/Notes/Human Factors in Security/Spear Phishing.md",
+    "NotesWeb/node_modules/retext-stringify/lib/index.d.ts",
+    "NotesWeb/node_modules/retext-stringify/lib/index.js",
+    "NotesWeb/node_modules/retext-stringify/readme.md",
+    "NotesWeb/node_modules/retext-stringify/package.json",
+    "NotesWeb/node_modules/retext-stringify/index.js",
+    "NotesWeb/node_modules/retext-stringify/index.d.ts",
+    "NotesWeb/node_modules/retext-stringify/lib",
+    "NotesWeb/node_modules/retext-stringify",
+    "NotesWeb/node_modules/retext-smartypants/lib/index.d.ts",
+    "NotesWeb/node_modules/retext-smartypants/lib/index.js",
+    "NotesWeb/node_modules/retext-smartypants/readme.md",
+    "NotesWeb/node_modules/retext-smartypants/package.json",
+    "NotesWeb/node_modules/zwitch/readme.md",
+    "NotesWeb/node_modules/trim-lines/readme.md",
+    "NotesWeb/node_modules/nlcst-to-string/readme.md",
     "content/Notes/Human Factors in Security/Social Engineering Awareness & Training.md",
     "content/Notes/Human Factors in Security/OSINT.md",
     "content/Untitled.md",
     "content/index.md",
-    "content/Books/Thoughts",
     "content/Books/1984.md",
     "content/About Me.md",
     "content/Notes/Untitled.md",
@@ -246,25 +260,11 @@
     "content/Notes/About Me.md",
     "content/Hello World!/Index.md",
     "content/Books/To Read.md",
-    "node_modules/parsimmon/src/parsimmon.js",
-    "node_modules/parsimmon/build/parsimmon.umd.min.js",
     "node_modules/parsimmon/README.md",
-    "node_modules/parsimmon/LICENSE",
-    "node_modules/parsimmon/src",
-    "node_modules/parsimmon/package.json",
-    "node_modules/parsimmon/build",
-    "node_modules/parsimmon",
     "content/Notes/Human Factors in Security/Phishing.md",
     "planning.md",
     "content/Notes/Human Factors in Security/Legal responsibilities.md",
     "content/Notes/Human Factors in Security/Awareness.md",
-    "content/Notes/Cryptography/Blockchains/Consensus Algorithm.md",
-    "content/Notes/Cryptography/Blockchains/Transaction.md",
-    "content/Notes/Human Factors in Security/HALLO 8D.md",
-    "content/Notes/Human Factors in Security/Reactive.md",
-    "content/Notes/Human Factors in Security/Maintenance.md",
-    "NotesWeb/node_modules/require-directory/README.markdown",
-    "NotesWeb/node_modules/require-directory/package.json",
     "NotesWeb/public/static/og-image.png",
     "NotesWeb/public/static/icon.png",
     "NotesWeb/quartz/static/og-image.png",

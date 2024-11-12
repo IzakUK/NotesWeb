@@ -42,3 +42,5 @@ Spear phishing can be a lot worse than [[Phishing|phishing]]. Especially if they
 They may go after your family, do [[OSINT]] to find out all about you and others. They do physical spear phishing and find out your schedule, sneak into places, attempt to gather as much information, possible blackmail.
 
 There is tons of things that the attacker can go after.
+
+Training for this is extremely important.
