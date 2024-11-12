@@ -12,7 +12,7 @@ E.g. ID card and who can access what.
 
 Document everything, and find the documentation that you need, so request it from the right people.
 
-Are people really following procedure, or just being silly goobers and turning a blind eye?
+Are people really following procedure, or just being silly goobers and turning a blind eye? (Essentially ignoring policy and taking it for granted, more common than you'd think!)
 
 if you find gaps, you can see attacks that can happen, show employees and the organisation, and they'll be aware and more cautious.
 

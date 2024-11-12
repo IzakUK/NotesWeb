@@ -6,6 +6,24 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2024-11-12T11:39:56.680Z",
+      "total": 0,
+      "drafts": {
+        "content/Notes/Hello World!/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "NotesWeb/content/Notes/Hello World!/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "content/Hello World!/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2024-11-04T17:24:38.482Z",
       "total": 0,
       "drafts": {

@@ -4,4 +4,8 @@ Figuratively, your house is built out of whatever, and a massive storm hits it. 
 
 You can see why [[Proactive|proactivity]] is the obvious choice.
 
-However, small organisations mainly use this approach, despite it's dangers, they just cannot afford to implement a [[Proactive|proactive]] approach.
+However, to your possible shock, small organisations mainly use this approach, despite it's dangers.
+
+<p style="text-align: center">Why?</p>
+
+It's because of one primary reason: Cost. They just cannot afford to implement a [[Proactive|proactive]] approach. Which leads to more security incidents where they fall for [[Phishing|phishing]] extremely easy.

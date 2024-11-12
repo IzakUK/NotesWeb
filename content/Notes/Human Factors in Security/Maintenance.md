@@ -7,3 +7,5 @@ If everything is perfect, then that's fine, don't feel like you've come out empt
 
 
 You have identified almost no vulnerabilities then it'll be fine, but make sure to report whatever you find
+
+This additionally links back to [[Proactive|proactive]] as you're still trying to avoid a security incident that could possibly happen in the future, and ensuring the security you implemented is working as intended.
