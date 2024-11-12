@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Notes/Human Factors in Security/Spear Phishing.md",
+                "file": "OSINT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spear Phishing"
+              "title": "OSINT"
             }
           }
         ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Notes/Human Factors in Security/Spear Phishing.md",
+                "file": "OSINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spear Phishing"
+              "title": "Backlinks for OSINT"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Notes/Human Factors in Security/Spear Phishing.md",
+                "file": "OSINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Spear Phishing"
+              "title": "Outgoing links from OSINT"
             }
           },
           {
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Notes/Human Factors in Security/Spear Phishing.md"
+                "file": "OSINT.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Spear Phishing"
+              "title": "Outline of OSINT"
             }
           },
           {
@@ -230,8 +230,10 @@
   },
   "active": "e43c1e188ceefe2b",
   "lastOpenFiles": [
-    "content/Notes/Untitled.md",
     "content/Notes/Human Factors in Security/Spear Phishing.md",
+    "OSINT.md",
+    "content/Untitled.md",
+    "content/Notes/Untitled.md",
     "content/Notes/DApp.md",
     "content/Notes/Consensus.md",
     "content/Notes/Anonymous.md",
@@ -264,8 +266,6 @@
     "NotesWeb/node_modules/require-directory/README.markdown",
     "NotesWeb/node_modules/require-directory/package.json",
     "NotesWeb/node_modules/micromark-util-html-tag-name/readme.md",
-    "NotesWeb/node_modules/unist-util-modify-children/node_modules/@types/unist/README.md",
-    "NotesWeb/node_modules/unist-util-modify-children/readme.md",
     "NotesWeb/public/static/og-image.png",
     "NotesWeb/public/static/icon.png",
     "NotesWeb/quartz/static/og-image.png",
