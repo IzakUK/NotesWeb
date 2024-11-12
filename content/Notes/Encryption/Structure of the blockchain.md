@@ -60,7 +60,7 @@ Summary, blockchain is a type of DLT, but DLT is not neccessarily a blockchain (
 Doesn't matter if you went for the last block, if it's important it's hard to go on the last block, they need access and info on the blockchain, they can't just go on the last block, we need to have some basic info on that looks straightforward on a diagram, but different in reality.
 
 
-Cool as fuck features of blockchain:
+Cool as features of blockchain:
 ![[Pasted image 20241028145522.png]]
 
 You can change it, but it requires validation (immutiable) so needs consensus

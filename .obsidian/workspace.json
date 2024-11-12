@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Substitution Cipher.md",
+                "file": "content/Notes/Encryption/Substitution Cipher.md",
                 "mode": "source",
                 "source": false
               },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Substitution Cipher.md",
+                "file": "content/Notes/Encryption/Substitution Cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Substitution Cipher.md",
+                "file": "content/Notes/Encryption/Substitution Cipher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Substitution Cipher.md"
+                "file": "content/Notes/Encryption/Substitution Cipher.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Substitution Cipher"
@@ -215,9 +215,15 @@
   },
   "active": "e43c1e188ceefe2b",
   "lastOpenFiles": [
+    "content/Notes/Encryption/Ciphertext.md",
     "content/Notes/Encryption/Caesar Cipher.md",
-    "Substitution Cipher.md",
+    "content/Notes/Encryption/Decentralise.md",
     "content/Notes/Encryption/Plaintext.md",
+    "content/Notes/Encryption/Distributed Ledger Technology (DLT).md",
+    "content/Notes/Encryption/Substitution Cipher.md",
+    "content/Notes/Encryption/Structure of the blockchain.md",
+    "content/Notes/Encryption/Block in blockchains.md",
+    "content/Notes/Encryption",
     "NotesWeb/node_modules/signal-exit/dist/mjs/signals.js.map",
     "NotesWeb/node_modules/signal-exit/dist/mjs/index.js.map",
     "NotesWeb/node_modules/signal-exit/dist/mjs/signals.js",
@@ -227,7 +233,6 @@
     "NotesWeb/node_modules/signal-exit/dist/mjs/index.d.ts.map",
     "NotesWeb/node_modules/signal-exit/dist/mjs/package.json",
     "NotesWeb/node_modules/signal-exit/dist/mjs/browser.js.map",
-    "NotesWeb/node_modules/signal-exit/dist/mjs/index.d.ts",
     "NotesWeb/node_modules/signal-exit/README.md",
     "NotesWeb/node_modules/typescript/SECURITY.md",
     "NotesWeb/node_modules/typescript/README.md",
@@ -238,9 +243,6 @@
     "NotesWeb/node_modules/path-scurry/README.md",
     "NotesWeb/node_modules/path-scurry/LICENSE.md",
     "NotesWeb/node_modules/mhchemparser/README.md",
-    "content/Notes/Encryption/Decentralise.md",
-    "content/Notes/Encryption/Ciphertext.md",
-    "content/Notes/Encryption/Distributed Ledger Technology (DLT).md",
     "NotesWeb/content/Notes/Encryption/Distributed Ledger Technology (DLT).md",
     "content/Notes/Human Factors in Security/Social Engineering Awareness & Training.md",
     "content/Notes/Human Factors in Security/Spear Phishing.md",
@@ -249,8 +251,6 @@
     "content/Notes/Human Factors in Security/Phishing.md",
     "content/Notes/Human Factors in Security/Legal responsibilities.md",
     "content/Notes/Human Factors in Security/OSINT.md",
-    "content/Notes/Human Factors in Security/Maintenance.md",
-    "content/Notes/Human Factors in Security/Awareness.md",
     "NotesWeb/public/static/og-image.png",
     "NotesWeb/public/static/icon.png",
     "NotesWeb/quartz/static/og-image.png",

@@ -10,9 +10,6 @@ Despite decentralised in nature, when the implementer of DLT has greater control
 
 [[3 B stolen story]]
 
-
-^ Basically that shit is essneitally saying the developers have control how it's implemented, during the silk road, one of the original developers of BTC was able to make a leak through the silk road in which he funneled 100s of millions of dollars, (he was caught by the FBI though in the end)
-
 Distributed ledgers are mostly permissioned databases
 
 DLT is very similar to the (blockchain)
