@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Notes/Encryption/Plaintext.md",
+                "file": "Substitution Cipher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plaintext"
+              "title": "Substitution Cipher"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Notes/Encryption/Plaintext.md",
+                "file": "Substitution Cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Plaintext"
+              "title": "Backlinks for Substitution Cipher"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Notes/Encryption/Plaintext.md",
+                "file": "Substitution Cipher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Plaintext"
+              "title": "Outgoing links from Substitution Cipher"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Notes/Encryption/Plaintext.md"
+                "file": "Substitution Cipher.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Plaintext"
+              "title": "Outline of Substitution Cipher"
             }
           },
           {
@@ -215,11 +215,32 @@
   },
   "active": "e43c1e188ceefe2b",
   "lastOpenFiles": [
+    "content/Notes/Encryption/Caesar Cipher.md",
+    "Substitution Cipher.md",
+    "content/Notes/Encryption/Plaintext.md",
+    "NotesWeb/node_modules/signal-exit/dist/mjs/signals.js.map",
+    "NotesWeb/node_modules/signal-exit/dist/mjs/index.js.map",
+    "NotesWeb/node_modules/signal-exit/dist/mjs/signals.js",
+    "NotesWeb/node_modules/signal-exit/dist/mjs/signals.d.ts.map",
+    "NotesWeb/node_modules/signal-exit/dist/mjs/signals.d.ts",
+    "NotesWeb/node_modules/signal-exit/dist/mjs/index.js",
+    "NotesWeb/node_modules/signal-exit/dist/mjs/index.d.ts.map",
+    "NotesWeb/node_modules/signal-exit/dist/mjs/package.json",
+    "NotesWeb/node_modules/signal-exit/dist/mjs/browser.js.map",
+    "NotesWeb/node_modules/signal-exit/dist/mjs/index.d.ts",
+    "NotesWeb/node_modules/signal-exit/README.md",
+    "NotesWeb/node_modules/typescript/SECURITY.md",
+    "NotesWeb/node_modules/typescript/README.md",
+    "NotesWeb/node_modules/path-type/readme.md",
+    "NotesWeb/node_modules/micromark-core-commonmark/readme.md",
+    "NotesWeb/node_modules/path-to-regexp/Readme.md",
+    "NotesWeb/node_modules/shiki/README.md",
+    "NotesWeb/node_modules/path-scurry/README.md",
+    "NotesWeb/node_modules/path-scurry/LICENSE.md",
+    "NotesWeb/node_modules/mhchemparser/README.md",
     "content/Notes/Encryption/Decentralise.md",
     "content/Notes/Encryption/Ciphertext.md",
-    "content/Notes/Encryption/Caesar Cipher.md",
     "content/Notes/Encryption/Distributed Ledger Technology (DLT).md",
-    "content/Notes/Encryption/Plaintext.md",
     "NotesWeb/content/Notes/Encryption/Distributed Ledger Technology (DLT).md",
     "content/Notes/Human Factors in Security/Social Engineering Awareness & Training.md",
     "content/Notes/Human Factors in Security/Spear Phishing.md",
@@ -230,27 +251,6 @@
     "content/Notes/Human Factors in Security/OSINT.md",
     "content/Notes/Human Factors in Security/Maintenance.md",
     "content/Notes/Human Factors in Security/Awareness.md",
-    "content/Notes/Human Factors in Security",
-    "content/Notes/Encryption/Structure of the blockchain.md",
-    "content/Notes/Encryption/Block in blockchains.md",
-    "content/Notes/Encryption",
-    "Development.md",
-    "NotesWeb/node_modules/retext-stringify/lib/index.d.ts",
-    "NotesWeb/node_modules/retext-stringify/lib/index.js",
-    "NotesWeb/node_modules/retext-stringify/readme.md",
-    "NotesWeb/node_modules/retext-stringify/package.json",
-    "NotesWeb/node_modules/retext-stringify/index.js",
-    "NotesWeb/node_modules/retext-stringify/index.d.ts",
-    "NotesWeb/node_modules/retext-stringify/lib",
-    "NotesWeb/node_modules/retext-stringify",
-    "NotesWeb/node_modules/retext-smartypants/lib/index.d.ts",
-    "NotesWeb/node_modules/retext-smartypants/readme.md",
-    "NotesWeb/node_modules/zwitch/readme.md",
-    "NotesWeb/node_modules/trim-lines/readme.md",
-    "NotesWeb/node_modules/nlcst-to-string/readme.md",
-    "content/Untitled.md",
-    "content/index.md",
-    "content/Books/1984.md",
     "NotesWeb/public/static/og-image.png",
     "NotesWeb/public/static/icon.png",
     "NotesWeb/quartz/static/og-image.png",

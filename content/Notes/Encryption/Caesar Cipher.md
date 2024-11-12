@@ -15,5 +15,7 @@ Z - a, b, **C**
 A - b, c, **D**
 <br>
 K - l, m, **N**
+
+This is a simple [[Substitution Cipher]]
 <br>
 Additional information, it was named after a roman soldier Julius Caesar from 100-44 BC and used it during the Gallic Wars to communicate with allies and hide communications from the enemy.
