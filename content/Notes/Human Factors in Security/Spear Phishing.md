@@ -1,3 +1,5 @@
+<p style="text-align: center"><b>A spear phishing attack that is targeted towards a singular person or a group of people, a personalised attack.</b></p>
+
 Remember [[Phishing|phishing?]] It's easy to spot most of the time
 
 You can easily find key points that expose a [[Phishing|phishing]] attack:
@@ -29,7 +31,7 @@ Steve.
 
 HIs name isn't Steve. He lied. This was a spear phished attack.
 
-**An attack that is targeted towards a singular person or a group of people**
+**A spear phishing attack that is targeted towards a singular person or a group of people, a personalised attack.**
 
 He had cloned your RFID keycard, had learnt your phone password a few months ago after seeing over your shoulder, learnt your family and friends and those who trust you through many conversations. Found password hints to your social medias with your interests which allowed him to reset your password and now he's unleashed everything.
 

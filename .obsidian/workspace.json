@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT.md",
+                "file": "content/Notes/Human Factors in Security/OSINT.md",
                 "mode": "source",
                 "source": false
               },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT.md",
+                "file": "content/Notes/Human Factors in Security/OSINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT.md",
+                "file": "content/Notes/Human Factors in Security/OSINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT.md"
+                "file": "content/Notes/Human Factors in Security/OSINT.md"
               },
               "icon": "lucide-list",
               "title": "Outline of OSINT"
@@ -231,20 +231,21 @@
   "active": "e43c1e188ceefe2b",
   "lastOpenFiles": [
     "content/Notes/Human Factors in Security/Spear Phishing.md",
-    "OSINT.md",
+    "content/Notes/Human Factors in Security/Social Engineering Awareness & Training.md",
+    "content/Notes/Human Factors in Security/OSINT.md",
     "content/Untitled.md",
+    "content/index.md",
+    "content/Books/Thoughts",
+    "content/Books/1984.md",
+    "content/About Me.md",
     "content/Notes/Untitled.md",
     "content/Notes/DApp.md",
     "content/Notes/Consensus.md",
     "content/Notes/Anonymous.md",
     "content/Notes/Academic Writing Small Test.md",
     "content/Notes/About Me.md",
-    "content/index.md",
     "content/Hello World!/Index.md",
     "content/Books/To Read.md",
-    "content/Books/Thoughts",
-    "content/Books/1984.md",
-    "content/About Me.md",
     "node_modules/parsimmon/src/parsimmon.js",
     "node_modules/parsimmon/build/parsimmon.umd.min.js",
     "node_modules/parsimmon/README.md",
@@ -259,13 +260,11 @@
     "content/Notes/Human Factors in Security/Awareness.md",
     "content/Notes/Cryptography/Blockchains/Consensus Algorithm.md",
     "content/Notes/Cryptography/Blockchains/Transaction.md",
-    "content/Notes/Human Factors in Security/Social Engineering Awareness & Training.md",
     "content/Notes/Human Factors in Security/HALLO 8D.md",
     "content/Notes/Human Factors in Security/Reactive.md",
     "content/Notes/Human Factors in Security/Maintenance.md",
     "NotesWeb/node_modules/require-directory/README.markdown",
     "NotesWeb/node_modules/require-directory/package.json",
-    "NotesWeb/node_modules/micromark-util-html-tag-name/readme.md",
     "NotesWeb/public/static/og-image.png",
     "NotesWeb/public/static/icon.png",
     "NotesWeb/quartz/static/og-image.png",
