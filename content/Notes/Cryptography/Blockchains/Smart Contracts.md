@@ -8,5 +8,4 @@ They're stored on the blockchain too, making them secure, they're [[Immutiable|i
 
 V Further info from my lecturer :D
 
-
 ![[Pasted image 20241028154357.png]]
