@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Notes/Cryptography/Blockchains/Smart Contracts.md",
+                "file": "content/Notes/Encryption/Caesar Cipher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Smart Contracts"
+              "title": "Caesar Cipher"
             }
           }
         ]
@@ -211,15 +211,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "content/Notes/Encryption/Ciphertext.md",
+    "content/Notes/Encryption/Substitution Cipher.md",
+    "content/Notes/Cryptography/Blockchains/Smart Contracts.md",
+    "content/index.md",
+    "content/About Me.md",
     "content/Notes/Cryptography/Blockchains/Transaction.md",
     "content/Notes/Cryptography/Blockchains/Block Reward.md",
     "content/Notes/Cryptography/Blockchains/Nodes/Mining Node.md",
     "content/Notes/Cryptography/Blockchains/Nodes/Full Node.md",
     "content/Notes/Cryptography/Chain.md",
-    "content/Notes/Encryption/Ciphertext.md",
     "content/Notes/Encryption/Distributed Ledger Technology (DLT).md",
     "content/Notes/Encryption/Structure of the blockchain.md",
-    "content/Notes/Encryption/Substitution Cipher.md",
     "content/Notes/Anonymous.md",
     "content/Notes/Encryption/Decentralise.md",
     "content/Notes/Encryption/Plaintext.md",
@@ -227,8 +230,6 @@
     "content/Notes/Encryption/Caesar Cipher.md",
     "content/Books/1984.md",
     "content/Books/To Read.md",
-    "content/About Me.md",
-    "content/index.md",
     "content/Notes/Encryption",
     "NotesWeb/node_modules/signal-exit/dist/mjs/signals.js.map",
     "NotesWeb/node_modules/signal-exit/dist/mjs/index.js.map",
@@ -246,7 +247,6 @@
     "NotesWeb/node_modules/micromark-core-commonmark/readme.md",
     "NotesWeb/node_modules/path-to-regexp/Readme.md",
     "NotesWeb/node_modules/shiki/README.md",
-    "NotesWeb/node_modules/path-scurry/README.md",
     "NotesWeb/public/static/og-image.png",
     "NotesWeb/public/static/icon.png",
     "NotesWeb/quartz/static/og-image.png",

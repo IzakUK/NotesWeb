@@ -1,4 +1,4 @@
-It's using the alphabet like [[Caesar Cipher|caesar cipher]].
+It creates [[Ciphertext|ciphertext]] using the alphabet like [[Caesar Cipher|caesar cipher]] does.
 
 Instead of moving the entire alphabet, it moves it with a case-by-case algorithm
 

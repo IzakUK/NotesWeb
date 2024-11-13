@@ -1,4 +1,4 @@
-Caesar cipher is an algorithm that creates [[Ciphertext]].
+Caesar cipher is an algorithm that creates [[Ciphertext|ciphertext]].
 
 It moves each letter of the [[Plaintext|plaintext]] forwards or backwards in the alphabet by N.
 
